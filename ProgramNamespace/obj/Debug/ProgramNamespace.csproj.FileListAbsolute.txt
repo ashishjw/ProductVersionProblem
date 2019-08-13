@@ -1,0 +1,5 @@
+c:\users\ashish.jaiswal\documents\visual studio 2012\Projects\ProgramNamespace\ProgramNamespace\bin\Debug\ProgramNamespace.exe.config
+c:\users\ashish.jaiswal\documents\visual studio 2012\Projects\ProgramNamespace\ProgramNamespace\bin\Debug\ProgramNamespace.exe
+c:\users\ashish.jaiswal\documents\visual studio 2012\Projects\ProgramNamespace\ProgramNamespace\bin\Debug\ProgramNamespace.pdb
+c:\users\ashish.jaiswal\documents\visual studio 2012\Projects\ProgramNamespace\ProgramNamespace\obj\Debug\ProgramNamespace.exe
+c:\users\ashish.jaiswal\documents\visual studio 2012\Projects\ProgramNamespace\ProgramNamespace\obj\Debug\ProgramNamespace.pdb
